@@ -1,7 +1,10 @@
-# Репозиторий для практических работ с лекций
+# 6. Основы Swift, часть 4
 
-Ссылки на практические работы:
+Темы урока:
 
-[4. ООП. Основы](https://github.com/NiFilonov/eltex-code-from-lessons/tree/4-lesson-oop)
+- Условные конструкции.
+- Конструкция guard.
+- Циклы.
 
-[5. Основы Swift, часть 3](https://github.com/NiFilonov/eltex-code-from-lessons/blob/5-lesson-swift-part-3)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1sofDPoayi2fRFwfk6_W9-Q7mkpA4rxAVONfejsEHR_k/edit?usp=sharing)
+[Ссылка на запись лекции](https://youtu.be/a6LcAbfNmfw)
