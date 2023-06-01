@@ -1,7 +1,12 @@
-# Репозиторий для практических работ с лекций
+# 7. Основы Swift, часть 5
 
-Ссылки на практические работы:
+**Темы урока:**
 
-[4. ООП. Основы](https://github.com/NiFilonov/eltex-code-from-lessons/tree/4-lesson-oop)
+- Массивы.
+- Словари.
+- Сеты.
 
-[5. Основы Swift, часть 3](https://github.com/NiFilonov/eltex-code-from-lessons/blob/5-lesson-swift-part-3)
+
+[Ссылка на презентацию](https://github.com/NiFilonov/eltex-code-from-lessons/tree/4-lesson-oop)
+
+[Ссылка на запись лекции](https://docs.google.com/presentation/d/1hOuq5bT-6hg2sL2feYHcbazoyBcjfsIMxorC_hvIUFQ/edit?usp=sharing)
