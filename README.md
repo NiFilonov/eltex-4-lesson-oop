@@ -1,13 +1,11 @@
-# Репозиторий для практических работ с лекций
+# 9. Основы Swift. Часть 7
 
-Ссылки на практические работы:
+**Темы урока:**
 
-[4. ООП. Основы](https://github.com/NiFilonov/eltex-code-from-lessons/tree/4-lesson-oop)
+- Работа с памятью.
+- Устройство ARC.
+- Weak, strong, unowned ссылки.
 
-[5. Основы Swift, часть 3](https://github.com/NiFilonov/eltex-code-from-lessons/blob/5-lesson-swift-part-3)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1z-5y54-4YrKQjT_SGXOIc4I3fNpV9_-YS4XfnCPS6Ls/edit?usp=sharing)
 
-[6. Основы Swift, часть 4](https://github.com/NiFilonov/eltex-code-from-lessons/tree/6-lesson-swift-part-4)
-
-[7. Основы Swift, часть 5](https://github.com/NiFilonov/eltex-code-from-lessons/tree/7-lesson-part-5)
-
-[8. Основы Swift, часть 6](https://github.com/NiFilonov/eltex-code-from-lessons/tree/8-lesson)
+[Ссылка на запись лекции](https://youtu.be/AkHOFnBZ6kA)
