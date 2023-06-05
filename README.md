@@ -11,3 +11,5 @@
 [7. Основы Swift, часть 5](https://github.com/NiFilonov/eltex-code-from-lessons/tree/7-lesson-part-5)
 
 [8. Основы Swift, часть 6](https://github.com/NiFilonov/eltex-code-from-lessons/tree/8-lesson)
+
+[9. Основы Swift, часть 7](https://github.com/NiFilonov/eltex-code-from-lessons/tree/9-lesson)
