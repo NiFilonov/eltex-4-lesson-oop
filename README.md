@@ -13,3 +13,5 @@
 [8. Основы Swift, часть 6](https://github.com/NiFilonov/eltex-code-from-lessons/tree/8-lesson)
 
 [9. Основы Swift, часть 7](https://github.com/NiFilonov/eltex-code-from-lessons/tree/9-lesson)
+
+[10. UIKit, первое приложение](https://github.com/NiFilonov/eltex-code-from-lessons/tree/10-lesson)
