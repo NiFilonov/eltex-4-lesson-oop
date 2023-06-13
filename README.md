@@ -1,15 +1,12 @@
-# Репозиторий для практических работ с лекций
+# 10. UIKit, первое приложение
 
-Ссылки на практические работы:
+**Темы урока:**
 
-[4. ООП. Основы](https://github.com/NiFilonov/eltex-code-from-lessons/tree/4-lesson-oop)
+- Работа со Storyboard.
+- Дефолтные UI-элементы.
+- Переходы между экранами.
+- Использование IBAction и IBOutlet.
 
-[5. Основы Swift, часть 3](https://github.com/NiFilonov/eltex-code-from-lessons/blob/5-lesson-swift-part-3)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/19_FwvP7vJWmZHj4WdcTzEuc9_NMIFu84_r8kRAk759w/edit#slide=id.p)
 
-[6. Основы Swift, часть 4](https://github.com/NiFilonov/eltex-code-from-lessons/tree/6-lesson-swift-part-4)
-
-[7. Основы Swift, часть 5](https://github.com/NiFilonov/eltex-code-from-lessons/tree/7-lesson-part-5)
-
-[8. Основы Swift, часть 6](https://github.com/NiFilonov/eltex-code-from-lessons/tree/8-lesson)
-
-[9. Основы Swift, часть 7](https://github.com/NiFilonov/eltex-code-from-lessons/tree/9-lesson)
+[Ссылка на запись лекции](https://youtu.be/wHXaxbVQSJs)
